@@ -1,1 +1,1 @@
-# project_sentiment_analysis_2022
+# Textual representations and semantic embeddings: an application for sentiment/essay analysis
