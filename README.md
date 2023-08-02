@@ -1,6 +1,7 @@
 # Textual representations and semantic embeddings: an application for sentiment/essay analysis
 
-This project involves the analysis of textual representations and semantic embeddings from datasets obtained from the website https://www.trictrac.net/, which focuses on selling board games. <br>
-The main objective is to classify reviews and predict the sentiment (positive or negative) expressed by users. We gained valuable insights by correlating words with grades, using word vector representation and dimensionality reduction to establish meaningful associations between words and sentiment in reviews. Exploring the represented space allowed us to identify trends in customer preferences.<br><br>
+In this project, we analyzed textual representations and semantic embeddings using datasets from https://www.trictrac.net/, a website that sells board games. <br>
+The primary goal was to classify reviews and predict user sentiments (positive or negative). By correlating words with grades, we gained valuable insights and established meaningful connections between words and sentiments in the reviews, using word vector representation and dimensionality reduction. <br>
+Through this exploration, we identified trends in customer preferences. <br><br>
 
 You can find the full report under the name of "project_ML_sentiment_analysis_2022.pdf".
