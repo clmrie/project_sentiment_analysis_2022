@@ -5,3 +5,8 @@ The primary goal was to classify reviews and predict user sentiments (positive o
 Through this exploration, we identified trends in customer preferences. <br><br>
 
 You will find the full report under the name of "project_ML_sentiment_analysis_2022.pdf".
+
+
+## Personal website
+
+Check out [Clement Marie’s personal website](https://clmrie.github.io/) for my research, projects, and CV.
